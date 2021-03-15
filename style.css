@@ -1,0 +1,42 @@
+body {
+    margin: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column ;
+}
+
+nav {
+    background-color:rgb(252, 196, 205);
+    padding: 2em 5;
+    text-align: center;
+  }
+
+nav a {
+    color: black;
+    margin: 0 1em;
+    text-decoration: none;
+}
+
+div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    width: 50px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+  h2 {
+      border: 5px solid black;
+  }
+
+  footer {
+      background-color: rgb(252, 196, 205);
+      margin-bottom: 0%;
+      padding: 1%;
+     text-align: center;
+  }
